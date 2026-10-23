@@ -1,7 +1,7 @@
 # Mis Programas Retro
 Algunos de mis programas hechos en el milenio pasado.
 
-![VisualBasic](https://img.shields.io/badge/Visual Basic-v5.0-blue)
+![VisualBasic](https://img.shields.io/badge/Visual_Basic-v5.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
