@@ -39,7 +39,7 @@ Dos de mis programas se distribuyeron en el **CD ACTUAL** que acompañaba a la r
 
 Aparece en la página 321, en la sección *Windows 95* del CD, como «Protector de carpetas v 1.0: utilidad que sirve para proteger tus carpetas mediante una clave». Puedes descargar el CD [aquí](https://archive.org/details/cd-actual-25).
 
-| Portada | Página interior (pag. 321) | CD nº 25 |
+| Portada | Página interior (pag. 321) | [CD nº 25](https://archive.org/details/cd-actual-25) |
 |:-------:|:------------------------:|:--------:|
 | [<img src="/Publicado_en_PCActual/Num_99_PCActual.jpg" width="220">](/Publicado_en_PCActual/Num_99_PCActual.jpg) | [<img src="/Publicado_en_PCActual/num99_PCActual_interior.jpg" width="220">](/Publicado_en_PCActual/num99_PCActual_interior.jpg) | [<img src="/Publicado_en_PCActual/CD25.jpg" width="220">](/Publicado_en_PCActual/CD25.jpg) |
 
