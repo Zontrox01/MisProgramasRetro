@@ -21,8 +21,8 @@ Dos de ellos fueron publicados en la revista **PCActual** y distribuidos en el C
 
 | Programa | Año | Descripción | Notas |
 |----------|-----|-------------|-------|
-| 🔒 **Protector de carpetas** | may. 1998 | Protegía carpetas con contraseña. | Publicado en PCActual nº 99 julio/agosto 1998 (con CD nº 25). **Obsoleto.** |
-| 💶 **Euroconvert** | feb. 1999 | Convertía divisas europeas a euros y viceversa. | Publicado en PCActual nº 107 abril 1999 (con CD nº 33). |
+| 🔒 **Protector de carpetas** | may. 1998 | Protegía carpetas con contraseña. | Publicado en PCActual nº 99 (julio/agosto 1998) con el CD nº 25. **Obsoleto.** |
+| 💶 **Euroconvert** | feb. 1999 | Convertía divisas europeas a euros y viceversa. | Publicado en PCActual nº 107 (abril 1999) con el CD nº 33. |
 | 👻 **La casa encantada** | jul. 1999 | Juego de lógica. | Hay una [versión actualizada](https://github.com/Zontrox01/LaCasaEncantada) en otro repositorio. |
 | 🪪 **NIF** | abr. 2001 | Calcula la letra de un número de DNI. | |
 | ⚓ **Pearl Harbour 1941** | jul. 2001 | Clásico juego de hundir la flota. | |
@@ -30,6 +30,28 @@ Dos de ellos fueron publicados en la revista **PCActual** y distribuidos en el C
 <!-- Añade aquí capturas de pantalla:
 ![Euroconvert](capturas/euroconvert.png)
 -->
+
+## 📰 Publicado en PCActual
+
+Dos de mis programas se distribuyeron en el **CD ACTUAL** que acompañaba a la revista. Haz clic en las imágenes para verlas a tamaño completo.
+
+### 🔒 Protector de carpetas: PCActual nº 99 · julio/agosto 1998
+
+Aparece en la página 321, en la sección *Windows 95* del CD, como «Protector de carpetas v 1.0: utilidad que sirve para proteger tus carpetas mediante una clave».
+
+| Portada | Página interior (p. 321) | CD nº 25 |
+|:-------:|:------------------------:|:--------:|
+| [<img src="Protector%20de%20carpetas/N%C2%BA_99_PCActual_.jpg" width="220">](Protector%20de%20carpetas/N%C2%BA_99_PCActual_.jpg) | [<img src="Protector%20de%20carpetas/N%C2%BA_99_PCActual_interior_.jpg" width="220">](Protector%20de%20carpetas/N%C2%BA_99_PCActual_interior_.jpg) | [<img src="Protector%20de%20carpetas/CD25.jpg" width="220">](Protector%20de%20carpetas/CD25.jpg) |
+
+### 💶 Euroconvert: PCActual nº 107 · abril 1999
+
+Aparece en la página 353, en la sección *Lectores*: «Utilidad que te ayudará no sólo a convertir de pesetas a euros y viceversa, sino también entre monedas de la comunidad europea».
+
+| Portada | Página interior (p. 353) | CD nº 33 |
+|:-------:|:------------------------:|:--------:|
+| [<img src="Protector%20de%20carpetas/N%C2%BA_107_PCActual_.jpg" width="220">](Protector%20de%20carpetas/N%C2%BA_107_PCActual_.jpg) | [<img src="Protector%20de%20carpetas/N%C2%BA_107_PCActual_interior_.jpg" width="220">](Protector%20de%20carpetas/N%C2%BA_107_PCActual_interior_.jpg) | [<img src="Protector%20de%20carpetas/CD33.jpg" width="220">](Protector%20de%20carpetas/CD33.jpg) |
+
+> Las imágenes de la revista y de los CD pertenecen a sus respectivos propietarios (PC ACTUAL / BPE) y se muestran únicamente con fines de archivo histórico.
 
 ## 💻 Uso y requisitos
 
@@ -50,4 +72,3 @@ Software gratuito (*freeware*), distribuido tal cual, sin garantía de ningún t
 ## 📬 Contacto
 
 ¿Recuerdas haber visto estos programas en PCActual? ¡Abre un *issue* y cuéntamelo! 😄
-
