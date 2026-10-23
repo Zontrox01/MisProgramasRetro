@@ -34,7 +34,7 @@ Dos de ellos fueron publicados en la revista **PCActual** y distribuidos en el C
 ## 💻 Uso y requisitos
 
 - Sistema operativo **Windows** (programas de finales de los 90 y principios de los 2000).
-- Pueden necesitar el *runtime* de Visual Basic 5.0 (`MSVBVM50.DLL`).
+- Pueden necesitar el *runtime* de Visual Basic 5.0 (`MSVBVM50.DLL`) incluido en este repositorio.
 - En versiones modernas de Windows, prueba el **modo de compatibilidad** (clic derecho → Propiedades → Compatibilidad).
 - Descarga los ejecutables desde la sección [Releases](../../releases) o desde las carpetas del repositorio.
 
