@@ -41,7 +41,7 @@ Aparece en la página 321, en la sección *Windows 95* del CD, como «Protector 
 
 | Portada | Página interior (p. 321) | CD nº 25 |
 |:-------:|:------------------------:|:--------:|
-| [<img src="/Publicado_en_PCActual/Num_99_PCActual.jpg" width="180">](/Publicado_en_PCActual/Num_99_PCActual.jpg) | [<img src="/Publicado_en_PCActual/num99_PCActual_interior.jpg" width="180">](/Publicado_en_PCActual/num99_PCActual_interior.jpg) | [<img src="/Publicado_en_PCActual/CD25.jpg" width="180">](/Publicado_en_PCActual/CD25.jpg) |
+| [<img src="/Publicado_en_PCActual/Num_99_PCActual.jpg" width="220">](/Publicado_en_PCActual/Num_99_PCActual.jpg) | [<img src="/Publicado_en_PCActual/num99_PCActual_interior.jpg" width="220">](/Publicado_en_PCActual/num99_PCActual_interior.jpg) | [<img src="/Publicado_en_PCActual/CD25.jpg" width="220">](/Publicado_en_PCActual/CD25.jpg) |
 
 ### 💶 Euroconvert: PCActual nº 107 · abril 1999
 
@@ -49,7 +49,7 @@ Aparece en la página 353, en la sección *Lectores*: «Utilidad que te ayudará
 
 | Portada | Página interior (p. 353) | CD nº 33 |
 |:-------:|:------------------------:|:--------:|
-| [<img src="Protector%20de%20carpetas/N%C2%BA_107_PCActual_.jpg" width="220">](Protector%20de%20carpetas/N%C2%BA_107_PCActual_.jpg) | [<img src="Protector%20de%20carpetas/N%C2%BA_107_PCActual_interior_.jpg" width="220">](Protector%20de%20carpetas/N%C2%BA_107_PCActual_interior_.jpg) | [<img src="/Publicado_en_PCActual/CD25.jpg" width="220">](Protector%20de%20carpetas/CD33.jpg) |
+| [<img src="/Publicado_en_PCActual/Num_107_PCActual.jpg" width="220">](/Publicado_en_PCActual/Num_107_PCActual.jpg) | [<img src="/Publicado_en_PCActual/num107_PCActual_interior.jpg" width="220">](/Publicado_en_PCActual/num107_PCActual_interior.jpg) | [<img src="/Publicado_en_PCActual/CD33.jpg" width="220">](/Publicado_en_PCActual/CD33.jpg) |
 
 > Las imágenes de la revista y de los CD pertenecen a sus respectivos propietarios (PC ACTUAL / BPE) y se muestran únicamente con fines de archivo histórico.
 
