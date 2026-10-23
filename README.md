@@ -39,7 +39,7 @@ Dos de mis programas se distribuyeron en el **CD ACTUAL** que acompañaba a la r
 
 Aparece en la página 321, en la sección *Windows 95* del CD, como «Protector de carpetas v 1.0: utilidad que sirve para proteger tus carpetas mediante una clave».
 
-| Portada | Página interior (p. 321) | CD nº 25 |
+| Portada | Página interior (pag. 321) | CD nº 25 |
 |:-------:|:------------------------:|:--------:|
 | [<img src="/Publicado_en_PCActual/Num_99_PCActual.jpg" width="220">](/Publicado_en_PCActual/Num_99_PCActual.jpg) | [<img src="/Publicado_en_PCActual/num99_PCActual_interior.jpg" width="220">](/Publicado_en_PCActual/num99_PCActual_interior.jpg) | [<img src="/Publicado_en_PCActual/CD25.jpg" width="220">](/Publicado_en_PCActual/CD25.jpg) |
 
@@ -47,9 +47,9 @@ Aparece en la página 321, en la sección *Windows 95* del CD, como «Protector 
 
 Aparece en la página 353, en la sección *Lectores*: «Utilidad que te ayudará no sólo a convertir de pesetas a euros y viceversa, sino también entre monedas de la comunidad europea».
 
-| Portada | Página interior (p. 353) | CD nº 33 |
+| Portada | Página interior (pag. 353) | CD nº 33 |
 |:-------:|:------------------------:|:--------:|
-| [<img src="/Publicado_en_PCActual/Num_107_PCActual.jpg" width="220">](/Publicado_en_PCActual/Num_107_PCActual.jpg) | [<img src="/Publicado_en_PCActual/num107_PCActual_interior.jpg" width="220">](/Publicado_en_PCActual/num107_PCActual_interior.jpg) | [<img src="/Publicado_en_PCActual/CD33.jpg" width="220">](/Publicado_en_PCActual/CD33.jpg) |
+| [<img src="/Publicado_en_PCActual/Num_107_PCActual.jpg" width="220">](/Publicado_en_PCActual/Num_107_PCActual.jpg) | [<img src="/Publicado_en_PCActual/num_107_PCActual_interior.jpg" width="220">](/Publicado_en_PCActual/num_107_PCActual_interior.jpg) | [<img src="/Publicado_en_PCActual/CD33.jpg" width="220">](/Publicado_en_PCActual/CD33.jpg) |
 
 > Las imágenes de la revista y de los CD pertenecen a sus respectivos propietarios (PC ACTUAL / BPE) y se muestran únicamente con fines de archivo histórico.
 
