@@ -3,7 +3,7 @@ Algunos de mis programas hechos en el milenio pasado.
 
 ![VisualBasic](https://img.shields.io/badge/Visual_Basic-v5.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![License](https://img.shields.io/badge/license-GNU_GENERAL_PUBLIC_LICENSE-yellow)
+![License](https://img.shields.io/badge/license-GNU-yellow)
 
 ---
 
