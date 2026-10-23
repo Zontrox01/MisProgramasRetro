@@ -49,7 +49,7 @@ Aparece en la página 353, en la sección *Lectores*: «Utilidad que te ayudará
 
 | Portada | Página interior (pag. 353) | CD nº 33 |
 |:-------:|:------------------------:|:--------:|
-| [<img src="/Publicado_en_PCActual/Num_107_PCActual.jpg" width="220">](/Publicado_en_PCActual/Num_107_PCActual.jpg) | [<img src="/Publicado_en_PCActual/num_107_PCActual_interior.jpg" width="220">](/Publicado_en_PCActual/num_107_PCActual_interior.jpg) | [<img src="/Publicado_en_PCActual/CD33.jpg" width="220">](/Publicado_en_PCActual/CD33.jpg) |
+| [<img src="/Publicado_en_PCActual/Num_107_PCActual.jpg" width="220">](/Publicado_en_PCActual/Num_107_PCActual.jpg) | [<img src="/Publicado_en_PCActual/Num_107_PCActual_interior.jpg" width="220">](/Publicado_en_PCActual/Num_107_PCActual_interior.jpg) | [<img src="/Publicado_en_PCActual/CD33.jpg" width="220">](/Publicado_en_PCActual/CD33.jpg) |
 
 > Las imágenes de la revista y de los CD pertenecen a sus respectivos propietarios (PC ACTUAL / BPE) y se muestran únicamente con fines de archivo histórico.
 
