@@ -41,7 +41,7 @@ Aparece en la página 321, en la sección *Windows 95* del CD, como «Protector 
 
 | Portada | Página interior (p. 321) | CD nº 25 |
 |:-------:|:------------------------:|:--------:|
-| [<img src="Protector%20de%20carpetas/N%C2%BA_99_PCActual.jpg" width="220">](Protector%20de%20carpetas/N%C2%BA_99_PCActual.jpg) | [<img src="Protector%20de%20carpetas/N%C2%BA_99_PCActual_interior.jpg" width="220">](Protector%20de%20carpetas/N%C2%BA_99_PCActual_interior.jpg) | [<img src="Protector%20de%20carpetas/CD25.jpg" width="220">](Protector%20de%20carpetas/CD25.jpg) |
+| [<img src="Protector%20de%20carpetas/N%C2%BA%2099%20PCActual.jpg" width="220">](Protector%20de%20carpetas/N%C2%BA%2099%20PCActual.jpg) | [<img src="Protector%20de%20carpetas/N%C2%BA%2099%20PCActual%20interior.jpg" width="220">](Protector%20de%20carpetas/N%C2%BA%2099%20PCActual%20interior.jpg) | [<img src="Protector%20de%20carpetas/CD25.jpg" width="220">](Protector%20de%20carpetas/CD25.jpg) |
 
 ### 💶 Euroconvert: PCActual nº 107 · abril 1999
 
