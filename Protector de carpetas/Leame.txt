@@ -1,0 +1,21 @@
+		  Protector de Carpetas Versión 1.0
+
+	El "Protector de Carpetas Versión 1.0" es un programa de
+protección de datos, actúa directamente sobre las carpetas, impidiendo
+su acceso, borrado o modificación.
+ 
+	Protector de Carpetas usa una clave introducida por el usuario
+para negar el acceso a esta, sin la cual no se podrá desproteger, por
+lo tanto no la olvide, memorízela, no la deje escrita, podrían dar con
+ella y acceder a sus datos, procure proteger sus carpetas siempre con 
+la misma clave, asi le será más fácil recordarla.
+
+	Al proteger una carpeta, el programa modificara su nombre
+añadiendole el prefijo "P_" por ejemplo la carpeta Gráficos quedaria
+como P_Gráficos dejándola con su nombre inicial al desprotegela.
+
+	Protector de Carpetas negará la protección de las carpetas
+que estén dentro de la trayectoria donde se encuentre, además de las
+carpetas Windows, System y otras donde el programa incluye ficheros 
+para su correcto funcionamiento. 
+			Por  Luis Miguel Ramos

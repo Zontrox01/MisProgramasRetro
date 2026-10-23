@@ -1,0 +1,6 @@
+			      Euroconvert v.1.0
+				
+     Pequeña aplicación para convertir cualquier moneda de la comunidad 
+monetaria Europea a Euros y viceversa.
+					Por : Luis Miguel Ramos
+			

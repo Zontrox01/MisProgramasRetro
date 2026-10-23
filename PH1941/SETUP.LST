@@ -1,0 +1,150 @@
+[Bootstrap]
+SetupTitle=Instalar
+SetupText=Copiando archivos, espere.
+CabFile=Pearl Harbour 1941.CAB
+Spawn=Setup1.exe
+Uninstal=st6unst.exe
+TmpDir=msftqws.pdw
+Cabs=1
+
+[Bootstrap Files]
+File1=@VB6STKIT.DLL,$(WinSysPathSysFile),,,7/28/98 12:00:00 AM,102912,6.0.81.69
+File2=@COMCAT.DLL,$(WinSysPathSysFile),$(DLLSelfRegister),,6/1/98 12:00:00 AM,22288,4.71.1460.1
+File3=@VB6ES.DLL,$(WinSysPath),,$(Shared),7/28/98 12:00:00 AM,119568,5.0.81.69
+File4=@STDOLE2.TLB,$(WinSysPathSysFile),$(TLBRegister),,6/8/00 5:00:00 PM,16896,2.40.4515.0
+File5=@ASYCFILT.DLL,$(WinSysPathSysFile),,,6/8/00 5:00:00 PM,143632,2.40.4515.0
+File6=@OLEPRO32.DLL,$(WinSysPathSysFile),$(DLLSelfRegister),,6/8/00 5:00:00 PM,164112,5.0.4515.0
+File7=@OLEAUT32.DLL,$(WinSysPathSysFile),$(DLLSelfRegister),,6/8/00 5:00:00 PM,614672,2.40.4515.0
+File8=@MSVBVM60.DLL,$(WinSysPathSysFile),$(DLLSelfRegister),,6/8/00 5:00:00 PM,1384448,6.0.84.95
+
+[IconGroups]
+Group0=Pearl Harbour 1941
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Pearl Harbour 1941]
+Icon1=""Pearl Harbour 1941.exe""
+Title1=Pearl Harbour 1941
+StartIn1=$(AppPath)
+
+[Setup]
+Title=Pearl Harbour 1941
+DefaultDir=$(ProgramFiles)\Pearl Harbour 1941
+AppExe=Pearl Harbour 1941.exe
+AppToUninstall=Pearl Harbour 1941.exe
+
+[Setup1 Files]
+File1=@portalet.jpg,$(AppPath)\Ayuda,,,7/9/01 11:23:10 AM,5972,0.0.0.0
+File2=@Merindoup.jpg,$(AppPath)\Ayuda,,,7/3/01 7:27:26 AM,3750,0.0.0.0
+File3=@lineabar.gif,$(AppPath)\Ayuda,,,7/3/01 7:37:24 AM,637,0.0.0.0
+File4=@lineaba2.gif,$(AppPath)\Ayuda,,,7/3/01 7:41:06 AM,908,0.0.0.0
+File5=@linea3.gif,$(AppPath)\Ayuda,,,7/3/01 11:32:28 PM,1080,0.0.0.0
+File6=@line2.gif,$(AppPath)\Ayuda,,,7/3/01 7:43:58 AM,1415,0.0.0.0
+File7=@Juegonuevoup.jpg,$(AppPath)\Ayuda,,,7/3/01 7:27:18 AM,4353,0.0.0.0
+File8=@Compruebaup.jpg,$(AppPath)\Ayuda,,,7/3/01 7:27:06 AM,3504,0.0.0.0
+File9=@Batalla.swf,$(AppPath)\Ayuda,,,7/4/01 12:35:38 AM,3978,0.0.0.0
+File10=@ayudasonido.gif,$(AppPath)\Ayuda,,,7/3/01 7:18:14 AM,17707,0.0.0.0
+File11=@ayudajuego.gif,$(AppPath)\Ayuda,,,7/3/01 7:18:42 AM,15575,0.0.0.0
+File12=@ayudadificultad.gif,$(AppPath)\Ayuda,,,7/3/01 7:18:28 AM,13743,0.0.0.0
+File13=@ayudaacercade.gif,$(AppPath)\Ayuda,,,7/3/01 7:17:54 AM,17027,0.0.0.0
+File14=@Ayuda.htm,$(AppPath)\Ayuda,,,7/9/01 11:31:40 AM,12109,0.0.0.0
+File15=@victoriaup.bmp,$(AppPath)\Imagenes,,,7/7/01 10:54:04 AM,14056,0.0.0.0
+File16=@victoriamove.bmp,$(AppPath)\Imagenes,,,7/7/01 10:54:48 AM,14056,0.0.0.0
+File17=@victoriadown.bmp,$(AppPath)\Imagenes,,,7/7/01 10:55:10 AM,14056,0.0.0.0
+File18=@japones.jpg,$(AppPath)\Imagenes,,,7/7/01 11:04:50 AM,5890,0.0.0.0
+File19=@Incorrectaup.bmp,$(AppPath)\Imagenes,,,7/8/01 11:02:34 AM,20076,0.0.0.0
+File20=@Incorrectamove.bmp,$(AppPath)\Imagenes,,,7/8/01 10:21:52 AM,20076,0.0.0.0
+File21=@Incorrectadown.bmp,$(AppPath)\Imagenes,,,7/8/01 10:31:26 AM,20076,0.0.0.0
+File22=@incorrecta.gif,$(AppPath)\Imagenes,,,7/8/01 1:09:34 PM,6304,0.0.0.0
+File23=@icono.jpg,$(AppPath)\Imagenes,,,7/8/01 12:07:22 PM,4654,0.0.0.0
+File24=@Franklindr.gif,$(AppPath)\Imagenes,,,7/8/01 1:45:46 AM,7089,0.0.0.0
+File25=@Fondo.jpg,$(AppPath)\Imagenes,,,7/4/01 12:15:30 AM,51692,0.0.0.0
+File26=@Derrotaup.bmp,$(AppPath)\Imagenes,,,7/7/01 11:29:56 AM,14056,0.0.0.0
+File27=@Derrotamove.bmp,$(AppPath)\Imagenes,,,7/7/01 11:30:24 AM,14056,0.0.0.0
+File28=@Derrotadown.bmp,$(AppPath)\Imagenes,,,7/7/01 11:30:46 AM,14056,0.0.0.0
+File29=@Merindoup.bmp,$(AppPath)\Imagenes,,,6/16/01 2:43:48 PM,14056,0.0.0.0
+File30=@Merindomove.bmp,$(AppPath)\Imagenes,,,6/16/01 2:45:16 PM,14056,0.0.0.0
+File31=@Merindoinac.bmp,$(AppPath)\Imagenes,,,6/16/01 2:44:28 PM,14056,0.0.0.0
+File32=@Merindodown.bmp,$(AppPath)\Imagenes,,,6/16/01 2:45:56 PM,14056,0.0.0.0
+File33=@logotyrgris.swf,$(AppPath)\Ayuda,,,7/9/01 11:15:56 AM,15340,0.0.0.0
+File34=@Juegonuevoup.bmp,$(AppPath)\Imagenes,,,6/16/01 2:50:32 PM,14056,0.0.0.0
+File35=@Juegonuevomove.bmp,$(AppPath)\Imagenes,,,6/16/01 2:50:56 PM,14056,0.0.0.0
+File36=@Juegonuevodown.bmp,$(AppPath)\Imagenes,,,6/16/01 2:51:08 PM,14056,0.0.0.0
+File37=@Intermitencia.bmp,$(AppPath)\Imagenes,,,7/1/01 4:42:12 PM,3128,0.0.0.0
+File38=@HAND.CUR,$(AppPath)\Imagenes,,,10/1/93 5:00:00 AM,326,0.0.0.0
+File39=@Compruebaup.bmp,$(AppPath)\Imagenes,,,6/16/01 2:49:32 PM,14056,0.0.0.0
+File40=@Compruebamove.bmp,$(AppPath)\Imagenes,,,6/16/01 2:49:52 PM,14056,0.0.0.0
+File41=@Compruebainac.bmp,$(AppPath)\Imagenes,,,6/16/01 2:49:40 PM,14056,0.0.0.0
+File42=@Compruebadown.bmp,$(AppPath)\Imagenes,,,6/16/01 2:50:04 PM,14056,0.0.0.0
+File43=@bc4v.bmp,$(AppPath)\Imagenes,,,7/1/01 4:04:36 PM,12344,0.0.0.0
+File44=@bc4h.bmp,$(AppPath)\Imagenes,,,7/1/01 4:00:42 PM,12344,0.0.0.0
+File45=@bc3v.bmp,$(AppPath)\Imagenes,,,7/1/01 4:09:12 PM,9272,0.0.0.0
+File46=@bc3h.bmp,$(AppPath)\Imagenes,,,7/1/01 4:11:26 PM,9272,0.0.0.0
+File47=@bc2v.bmp,$(AppPath)\Imagenes,,,7/1/01 4:13:02 PM,6200,0.0.0.0
+File48=@bc2h.bmp,$(AppPath)\Imagenes,,,7/1/01 4:14:24 PM,6200,0.0.0.0
+File49=@bc1v.bmp,$(AppPath)\Imagenes,,,7/1/01 6:01:40 PM,3128,0.0.0.0
+File50=@Apo.mp3,$(AppPath)\Sonido,,,7/2/01 7:35:44 AM,4580843,0.0.0.0
+File51=@a1.bmp,$(AppPath)\Imagenes,,,7/1/01 4:34:18 PM,3128,0.0.0.0
+File52=@8.bmp,$(AppPath)\Imagenes,,,7/1/01 5:29:06 PM,3128,0.0.0.0
+File53=@7.bmp,$(AppPath)\Imagenes,,,7/1/01 5:28:40 PM,3128,0.0.0.0
+File54=@6.bmp,$(AppPath)\Imagenes,,,7/1/01 5:28:16 PM,3128,0.0.0.0
+File55=@5Pearl.jpg,$(AppPath)\Imagenes,,,7/2/01 7:18:32 PM,29246,0.0.0.0
+File56=@5.bmp,$(AppPath)\Imagenes,,,7/1/01 5:27:40 PM,3128,0.0.0.0
+File57=@4Pearl.jpg,$(AppPath)\Imagenes,,,7/2/01 7:17:42 PM,22939,0.0.0.0
+File58=@4.bmp,$(AppPath)\Imagenes,,,7/1/01 5:30:46 PM,3128,0.0.0.0
+File59=@3Pearl.jpg,$(AppPath)\Imagenes,,,7/2/01 7:15:58 PM,21928,0.0.0.0
+File60=@3.bmp,$(AppPath)\Imagenes,,,7/1/01 5:26:38 PM,3128,0.0.0.0
+File61=@2Pearl.jpg,$(AppPath)\Imagenes,,,7/2/01 7:15:16 PM,23903,0.0.0.0
+File62=@2p.bmp,$(AppPath)\Imagenes,,,7/1/01 4:37:30 PM,3128,0.0.0.0
+File63=@2.bmp,$(AppPath)\Imagenes,,,7/1/01 5:26:16 PM,3128,0.0.0.0
+File64=@1Pearl.jpg,$(AppPath)\Imagenes,,,7/2/01 7:13:46 PM,41489,0.0.0.0
+File65=@1p.bmp,$(AppPath)\Imagenes,,,7/1/01 4:36:38 PM,3128,0.0.0.0
+File66=@1.bmp,$(AppPath)\Imagenes,,,7/1/01 5:23:32 PM,3128,0.0.0.0
+File67=@0Pearl.jpg,$(AppPath)\Imagenes,,,7/2/01 6:55:22 PM,35831,0.0.0.0
+File68=@0.bmp,$(AppPath)\Imagenes,,,7/1/01 5:30:18 PM,3128,0.0.0.0
+File69=@MSCMCES.DLL,$(WinSysPath),,$(Shared),7/28/98 12:00:00 AM,140800,6.0.81.63
+File70=@MSCOMCTL.OCX,$(WinSysPath),$(DLLSelfRegister),$(Shared),7/29/98 2:01:56 AM,1062704,6.0.81.77
+File71=@MSDXM.OCX,$(WinSysPath),$(DLLSelfRegister),$(Shared),6/8/00 5:00:00 PM,847632,6.4.7.1112
+File72=@SWFLASH.OCX,$(WinSysPath),$(DLLSelfRegister),$(Shared),11/27/00 6:30:06 AM,405504,5.0.42.0
+File73=@INETES.DLL,$(WinSysPath),,$(Shared),7/28/98 12:00:00 AM,15872,6.0.81.63
+File74=@MSINET.OCX,$(WinSysPath),$(DLLSelfRegister),$(Shared),5/22/00 12:00:00 AM,115920,6.0.88.62
+File75=@Pearl Harbour 1941.exe,$(AppPath),,,7/10/01 10:55:32 AM,380928,1.0.0.0
+
+; Puede eliminar las siguientes líneas para obtener espacio adicional 
+; con el fin de personalizar este archivo en un disco de instalación completa.
+; 
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
