@@ -21,8 +21,8 @@ Dos de ellos fueron publicados en la revista **PCActual** y distribuidos en el C
 
 | Programa | Año | Descripción | Notas |
 |----------|-----|-------------|-------|
-| 🔒 **Protector de carpetas** | may. 1998 | Protegía carpetas con contraseña. | Publicado en PCActual nº 105 (con CD). **Obsoleto.** |
-| 💶 **Euroconvert** | feb. 1999 | Convertía divisas europeas a euros y viceversa. | Publicado en PCActual nº 108 (con CD). |
+| 🔒 **Protector de carpetas** | may. 1998 | Protegía carpetas con contraseña. | Publicado en PCActual nº 99 julio/agosto 1998 (con CD nº 25). **Obsoleto.** |
+| 💶 **Euroconvert** | feb. 1999 | Convertía divisas europeas a euros y viceversa. | Publicado en PCActual nº 107 abril 1999 (con CD nº 33). |
 | 👻 **La casa encantada** | jul. 1999 | Juego de lógica. | Hay una [versión actualizada](https://github.com/Zontrox01/LaCasaEncantada) en otro repositorio. |
 | 🪪 **NIF** | abr. 2001 | Calcula la letra de un número de DNI. | |
 | ⚓ **Pearl Harbour 1941** | jul. 2001 | Clásico juego de hundir la flota. | |
