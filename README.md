@@ -45,9 +45,10 @@ Aparece en la página 321, en la sección *Windows 95* del CD, como «Protector 
 
 ### 💶 Euroconvert: PCActual nº 107 · abril 1999
 
-Aparece en la página 353, en la sección *Lectores*: «Utilidad que te ayudará no sólo a convertir de pesetas a euros y viceversa, sino también entre monedas de la comunidad europea».
+Aparece en la página 353, en la sección *Lectores*: «Utilidad que te ayudará no sólo a convertir de pesetas a euros y viceversa, sino también entre monedas de la comunidad europea». Puedes descargar el CD completo [aquí](https://archive.org/details/cd-actual-33).
 
-| Portada | Página interior (pag. 353) | CD nº 33 |
+
+| Portada | Página interior (pag. 353) | [CD nº 33](https://archive.org/details/cd-actual-33) |
 |:-------:|:------------------------:|:--------:|
 | [<img src="/Publicado_en_PCActual/Num_107_PCActual.jpg" width="220">](/Publicado_en_PCActual/Num_107_PCActual.jpg) | [<img src="/Publicado_en_PCActual/Num_107_PCActual_interior.jpg" width="220">](/Publicado_en_PCActual/Num_107_PCActual_interior.jpg) | [<img src="/Publicado_en_PCActual/CD33.jpg" width="220">](/Publicado_en_PCActual/CD33.jpg) |
 
